@@ -1,0 +1,12 @@
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/bin/Debug/netcoreapp3.1/Human.deps.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/bin/Debug/netcoreapp3.1/Human.runtimeconfig.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/bin/Debug/netcoreapp3.1/Human.runtimeconfig.dev.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/bin/Debug/netcoreapp3.1/Human.dll
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/bin/Debug/netcoreapp3.1/Human.pdb
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/obj/Debug/netcoreapp3.1/Human.csprojAssemblyReference.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/obj/Debug/netcoreapp3.1/Human.AssemblyInfoInputs.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/obj/Debug/netcoreapp3.1/Human.AssemblyInfo.cs
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/obj/Debug/netcoreapp3.1/Human.csproj.CoreCompileInputs.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/obj/Debug/netcoreapp3.1/Human.dll
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/obj/Debug/netcoreapp3.1/Human.pdb
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/CSharpOOP/Human/obj/Debug/netcoreapp3.1/Human.genruntimeconfig.cache
